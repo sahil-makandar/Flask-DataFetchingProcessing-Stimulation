@@ -39,5 +39,10 @@ This Flask application simulates a simplified version of a data retrieval and pr
 - **Get Processed Data**: Make a GET request to `http://127.0.0.1:5000/get-processed-data`.
     
 ## Dependencies
-
 - Flask
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes. Make sure your contributions are well-documented and tested.
+
+
