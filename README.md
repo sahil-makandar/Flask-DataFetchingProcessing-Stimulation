@@ -19,7 +19,7 @@ This Flask application simulates a simplified version of a data retrieval and pr
 2. **Set Up Virtual Environment:**
     ```bash
     python3 -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\\Scripts\\activate
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate
     ```
 
 3. **Install Dependencies:**
